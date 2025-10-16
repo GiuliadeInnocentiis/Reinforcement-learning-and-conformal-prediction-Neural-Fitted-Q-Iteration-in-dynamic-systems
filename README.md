@@ -1,0 +1,2 @@
+# Reinforcement-learning-and-conformal-prediction-Neural-Fitted-Q-Iteration-in-dynamic-systems
+During my master thesis, I've studied reinforcement learning with a specific focus in Q learning and Fitted Q-Iteration, using these methods in order to manage the optimal functioning of a water tank in the city of Milan. To quantify the uncertainty in the estimates of q-values, I've applied conformal prediction for non-excheangeble data.
